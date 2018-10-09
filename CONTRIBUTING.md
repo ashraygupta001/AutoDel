@@ -1,4 +1,4 @@
-# <b>Contributing to AUTODEL</b>
+﻿## <b>Contributing to AUTODEL</b>
 
 `AUTODEL` uses `Tkinter` for UI development and `PIL` for some other functionalities. You can contribute in many ways, from reporting bugs to adding features that you find suitable. Some ideas to contribute have been listed below.
 
